@@ -1,3 +1,7 @@
 nav{
   background: #e9ecef;
 }
+
+#nav-list{
+  display: inline;
+}
