@@ -1,8 +1,24 @@
 /* Add application styles & imports to this file! */
 body{
-  background: #e9ecef;
+  background: #FFBFB7;
+}
+
+hr{
+  border: solid .3px #fff;
 }
 
 .transparent{
   background: transparent;
+}
+
+.white{
+  color: #fff !important;
+}
+
+.purple{
+  color: #320D6D !important;
+}
+
+.peach{
+  color: #FFBFB7 !important;
 }
