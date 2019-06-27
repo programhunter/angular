@@ -1,1 +1,8 @@
 /* Add application styles & imports to this file! */
+body{
+  background: #e9ecef;
+}
+
+.transparent{
+  background: transparent;
+}
