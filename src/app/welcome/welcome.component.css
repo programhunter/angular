@@ -26,3 +26,9 @@
         transform: translateY(-25px);
       }
     }
+
+.welcome-btn{
+  background: #fff;
+  font-weight: 500;
+  color: rgb(18, 137, 253);
+}
