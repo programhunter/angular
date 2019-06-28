@@ -3,12 +3,8 @@ body{
   background: #fff;
 }
 
-h1,h2,h3,h4,h5,h6{
-  font-family: 'Roboto', sans-serif;
-}
-
-hr{
-  border: solid .3px #fff;
+h1,h2,h3,h4,h5,h6, p{
+  font-family: 'Oswald', sans-serif;
 }
 
 .transparent{
