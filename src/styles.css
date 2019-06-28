@@ -1,6 +1,10 @@
 /* Add application styles & imports to this file! */
 body{
-  background: #FFBFB7;
+  background: #fff;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Roboto', sans-serif;
 }
 
 hr{
@@ -15,14 +19,22 @@ hr{
   color: #fff !important;
 }
 
+.bg-white{
+  background: #fff !important;
+}
+
 .purple{
-  color: #320D6D !important;
+  color: #5D2E8C !important;
 }
 
-.peach{
-  color: #FFBFB7 !important;
+.bg-purple{
+  background: #5D2E8C !important;
 }
 
-.violet{
-  color: #012A36 !important
+.logo-font{
+  font-family: 'Gloria Hallelujah', cursive !important;
+}
+
+.oswald{
+  font-family: 'Oswald', sans-serif !important;
 }
