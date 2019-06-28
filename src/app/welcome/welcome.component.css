@@ -1,3 +1,28 @@
 .welcome{
   padding: 15% 0%;
 }
+
+.space{
+  background-image: linear-gradient(0deg, rgb(10, 107, 190) -50%, rgb(28, 22, 86) 93%);
+}
+
+.image {
+      animation: bounce 10s infinite alternate;
+      -webkit-animation: bounce 10s infinite alternate;
+    }
+    @keyframes bounce {
+      from {
+        transform: translateY(0px);
+      }
+      to {
+        transform: translateY(-25px);
+      }
+    }
+    @-webkit-keyframes image {
+      from {
+        transform: translateY(0px);
+      }
+      to {
+        transform: translateY(-25px);
+      }
+    }
